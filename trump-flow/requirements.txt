@@ -1,0 +1,15 @@
+ccxt
+httpx
+websockets
+pandas
+pyarrow
+duckdb
+numpy
+scipy
+plotly
+matplotlib
+streamlit
+rich
+tenacity
+python-dotenv
+dune-client
